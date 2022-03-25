@@ -6,7 +6,7 @@ import java.util.TreeSet;
 
 public class FibnosisSeries {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {  
 		
 		
 		  int a = 0 ; 
@@ -21,7 +21,13 @@ public class FibnosisSeries {
 			    a = b ; 
 		  		b = c ;
 		  
-		  System.out.println(c); }
+		  System.out.println(c); 
+
+
+
+		 System.out.println(D);  //By Dev1 
+
+}
 		 
 		
 	 
